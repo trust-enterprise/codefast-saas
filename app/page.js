@@ -3,7 +3,7 @@ import ListItems from "@/components/ListItems";
 import FAQListItems from "@/components/FAQListItems";
 import Image from "next/image";
 import productDemo from "@/public/assets/productDemo.jpeg";
-import { use } from "react";
+
 const isLoggedIn = true;
 let username = "Marc";
 
